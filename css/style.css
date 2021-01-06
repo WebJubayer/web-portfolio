@@ -8,7 +8,6 @@ body{
     margin-left: 5%;
     padding-left: 2%;
     height: 500px;
-
 }
 
 .half-width img{
@@ -21,6 +20,10 @@ body{
 .name{
     color: tomato;
 }
+#img1{
+    height: 500px;
+    margin-right: 70px;
+}
 .anchor{
     text-decoration: none;
     padding: 10px 20px;
@@ -29,8 +32,12 @@ body{
     font-weight: bold;
     background-image: linear-gradient(30deg,tomato,lightsalmon);
 }
-.work-img{
-    margin-top: 500px;;
-    width: 30%;
-    float: left;
+.work{
+    background-color: gray;
+    min-height: 600px;
+    width: auto;
+}
+.work-h{
+    margin-top: 1000px;
+    margin-right: 800px;;
 }
