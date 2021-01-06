@@ -2,12 +2,16 @@ body{
     margin: o;
     font-family: 'poppins', 'sans-serif';
 }
+.first-sec{
+    margin-top: 50px;;
+    min-height: 500px;
+}
 .half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-    height: 500px;
+    
 }
 
 .half-width img{
@@ -23,6 +27,7 @@ body{
 #img1{
     height: 500px;
     margin-right: 70px;
+    margin-bottom: 100px;;
 }
 .anchor{
     text-decoration: none;
@@ -32,12 +37,7 @@ body{
     font-weight: bold;
     background-image: linear-gradient(30deg,tomato,lightsalmon);
 }
-.work{
-    background-color: gray;
-    min-height: 600px;
-    width: auto;
-}
-.work-h{
-    margin-top: 1000px;
-    margin-right: 800px;;
+.working h1{
+    margin-top: 400px;
+    margin-right: 100px;
 }
